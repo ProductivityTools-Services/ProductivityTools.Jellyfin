@@ -1,0 +1,4 @@
+cache/
+config/
+media/*
+!media/.gitkeep
